@@ -1,0 +1,12 @@
+{
+  "registry-mirrors": [
+         "https://dockerproxy.com",
+         "https://mirror.baidubce.com",
+         "https://ccr.ccs.tencentyun.com",
+         "https://iwt4duj0.mirror.aliyuncs.com",
+         "https://docker.mirrors.ustc.edu.cn",
+         "https://hub-mirror.c.163.com",
+         "https://registry.docker-cn.com",
+         "https://reg-mirror.qiniu.com"
+  ]
+}
